@@ -1,0 +1,908 @@
+[
+  {
+    "PGName": "Green Homes Pg",
+    "Ratings": 3.3,
+    "locality": "6th C Main Jayanagar 4th Block",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Reddys Residency",
+    "Ratings": 3.6,
+    "locality": "Vidya Jayanagar 4th T Block",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "AANANAYA PG FOR WOMEN AND GIRLS",
+    "Ratings": 3.9,
+    "locality": "Richmond Road Shanthinagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Udupi Upahar Pg For Men",
+    "Ratings": 3.9,
+    "locality": "Colony Banashankari 1st Stage",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "My Home Pg For Men",
+    "Ratings": 3.7,
+    "locality": "T.R Nagar Basavanagudi",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Eterna Pg Accommadation",
+    "Ratings": 4.6,
+    "locality": "4th Main Road Basavanagudi",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Misbah Homestay",
+    "Ratings": 4.2,
+    "locality": "Lalbagh Fort Road V V Puram",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Vaishnavi Paying Guest",
+    "Ratings": 4.4,
+    "locality": "2nd Cross Jp Nagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Sri Jayadurga Mens Pg",
+    "Ratings": 4.2,
+    "locality": "No.90/2 Vijayanagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Pankaja Paying Guest",
+    "Ratings": 4.7,
+    "locality": "Cross Banashankari 2nd Stage",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "MMM Paying Guest",
+    "Ratings": 3.2,
+    "locality": "1st Phase Chandra Layout",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Sri Nimishamba P G For Girls",
+    "Ratings": 3.6,
+    "locality": "6th Cross Vasanth Nagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Sri Lakshmi Pg For Ladies",
+    "Ratings": 4.3,
+    "locality": "Seshadripuram",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "AANANAYA PG FOR WOMEN AND GIRLS",
+    "Ratings": 3.9,
+    "locality": "Richmond Road Shanthinagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Basaveshwara P.G.",
+    "Ratings": 4.6,
+    "locality": "MC Layout Vijayanagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Sri Ram Sri Lakshmi Pg",
+    "Ratings": 3.7,
+    "locality": "Pg For Jayanagar 5th Block",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Nest Stay Home",
+    "Ratings": 3.8,
+    "locality": "Main Road Basavanagudi",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Annaporeshwari Paying Guest",
+    "Ratings": 3.8,
+    "locality": "4th Block Rajajinagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Sri Lakshmi Ladies Pg",
+    "Ratings": 3.6,
+    "locality": "Thyagaraja Nagar Netaji Road",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Rajamahal",
+    "Ratings": 3.5,
+    "locality": "Rathna Villas Rd Basavanagudi",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Sri Lakshmi Vinayaka Comforts",
+    "Ratings": 4.3,
+    "locality": "Sannidhi Road Basavanagudi",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Uma Paying Guest For Women",
+    "Ratings": 4.1,
+    "locality": "Subanna Garden Vijayanagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Sri Sai Pg Home For Ladies",
+    "Ratings": 4.5,
+    "locality": "Vinayaka Jp Nagar 7th Phase",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Sakshi Living (Girls Hostel)",
+    "Ratings": 3.5,
+    "locality": "Bank Colony Chandra Layout",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Vinayaka PG Accommodation",
+    "Ratings": 4.8,
+    "locality": "2nd Cross Chandra Layout",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "VBS Hostel For Women",
+    "Ratings": 3.9,
+    "locality": "5th Main Jayanagar 5th Block",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Bhagyalakshmi Paying Guest",
+    "Ratings": 4.5,
+    "locality": "Colony Kumaraswamy Layout",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Sunshine Ladies Pg",
+    "Ratings": 3.8,
+    "locality": "1st 'B' Main Yediyur",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "My Home PG For Girls",
+    "Ratings": 4.7,
+    "locality": "3rd Main Rajajinagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Chegus Perennial Pg For Men and Women",
+    "Ratings": 3.7,
+    "locality": "(Shanthi Nagar) Lalbagh Road",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Basaveshwara P.G.",
+    "Ratings": 4.8,
+    "locality": "8th Main Vasanth Nagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "SPD PG For Ladies and Gents and Real Estate",
+    "Ratings": 3.4,
+    "locality": "Ratna Avenue Richmond Road",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Shardha Pg For Mens and Womens",
+    "Ratings": 4.7,
+    "locality": "Jayanagar 4th Block Jayanagar",
+    "City": "Bangalore"
+  },
+  {
+    "PGName": "Anugrahha Men and Women Pg",
+    "Ratings": 4.3,
+    "locality": "Cross Street Tambaram Sanatorium",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Naannaa Elite",
+    "Ratings": 3.6,
+    "locality": "1st Cross Street Mogappair East",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Nithya Pradha Mens Hostel",
+    "Ratings": 4.062857143,
+    "locality": "Street Canal Road Kottivakkam",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Sri Venkateshwara Mens Hostel",
+    "Ratings": 4.087142857,
+    "locality": "High Road Choolaimedu",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Kavitha Mens Hostel",
+    "Ratings": 4.475714286,
+    "locality": "Velachery Road Velacheri",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Jpr Mens Pg",
+    "Ratings": 4.487857143,
+    "locality": "Mumoorthi Nagar Chromepet",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Blessing Bells PG & Mansion",
+    "Ratings": 4.560714286,
+    "locality": "Nd Main Road Virugambakkam",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Sriram Gents Pg Accomodation",
+    "Ratings": 4.621428571,
+    "locality": "KTK Town Sholinganallur",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Roja Hostel",
+    "Ratings": 4.67,
+    "locality": "5h Street Perumbakkam",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Ammaa Residency",
+    "Ratings": 4.84,
+    "locality": "Mount Poonamallee Road Porur",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Naannaa Elite",
+    "Ratings": 4.864285714,
+    "locality": "Padmanaba Nagar Choolaimedu",
+    "City": "Chennai"
+  },
+  {
+    "PGName": "Eshwar Grand Womens PG",
+    "Ratings": 4.1,
+    "locality": "Anjaya Nagar Gachibowli",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Akshara Ladies Hostel",
+    "Ratings": 4.6,
+    "locality": "Old Alwal-alwal",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "At Ease Pg Home For Women",
+    "Ratings": 3.8,
+    "locality": "Hig Gachibowli",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Sri Vijaya Ladies & Boys Hostel",
+    "Ratings": 4.6,
+    "locality": "P J Nagar Gachibowli",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Celluloid Premium ForWomens",
+    "Ratings": 4.7,
+    "locality": "Madhura Nagar Colony Raidurgam",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Akshara Ladies Hostel",
+    "Ratings": 3.8,
+    "locality": "Metro Pillar No C-1728 Madhapur",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Rekha Womens Pg Accommodation",
+    "Ratings": 4.2,
+    "locality": "Phase Bus Stop. KPHB Colony",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Zen Living Premium Co-living Spaces For Women",
+    "Ratings": 4.2,
+    "locality": "Green Land Colony Gachibowli",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Celluloid Luxury P G Accommodation",
+    "Ratings": 4.2,
+    "locality": "Mythri Nilayam Kondapur",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Diya Womens Pg  Hostel",
+    "Ratings": 4.9,
+    "locality": "Cyberhills Gachibowli",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Celluloid Luxury P G Accommodation",
+    "Ratings": 3.9,
+    "locality": "R K Puram Kothapet",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Rekha Womens Pg Accommodation",
+    "Ratings": 4.7,
+    "locality": "Nagar Main Road Santosh Nagar",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Honey PG Womens Hostel",
+    "Ratings": 4.2,
+    "locality": "KPHB 9TH PHASE KPHB Colony",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Newgen Residency",
+    "Ratings": 4.4,
+    "locality": "Dairy Farm Road Alwal",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Sri Vijaya Ladies & Boys Hostel",
+    "Ratings": 4.6,
+    "locality": "P J Nagar Gachibowli",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Shine Executive Boys Hostel",
+    "Ratings": 3.7,
+    "locality": "Karmanghat Road LB Nagar",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Home Stay Boys Hostel",
+    "Ratings": 4,
+    "locality": "Himayat Nagar",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "TRENDS PG FOR MEN",
+    "Ratings": 3.8,
+    "locality": "Dlf Lane Gachibowli",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Sri Tirumala Executive Mens PG Hostel",
+    "Ratings": 4,
+    "locality": "Hig Hospital Lane Gachibowli",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Sri Jai Jagadamba Executive Boys Hostel & Mess",
+    "Ratings": 4.6,
+    "locality": "Narasimhapuri Colony Kothapet",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Happy Mens Pg Hostel",
+    "Ratings": 4,
+    "locality": "Konapur Road Gachibowli",
+    "City": "Hyderabad"
+  },
+  {
+    "PGName": "Ramesh Paying Guest Accomodation",
+    "Ratings": 3.6,
+    "locality": "Link Road Mulund West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Ansh Paying Guest",
+    "Ratings": 4.6,
+    "locality": "Ghansoli",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Happy Home Residency",
+    "Ratings": 4.4,
+    "locality": "E Punjab Society Andheri East",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Mahalaxmi Hostel",
+    "Ratings": 4.1,
+    "locality": "Sector 18 A Nerul",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Happy House",
+    "Ratings": 4.4,
+    "locality": "St Antony Street Kalina",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Welcome Home Pg",
+    "Ratings": 4.6,
+    "locality": "Andheri West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Rahul Seaman Hostel",
+    "Ratings": 4.5,
+    "locality": "Sector 14 Cbd Belapur",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Shared Homes Services Pvt Ltd",
+    "Ratings": 4.4,
+    "locality": "Bhandup East",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Shah & Nahta Paying Guest",
+    "Ratings": 4,
+    "locality": "Shankar Pada Road Kandivali West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Divine Mercy Enterprise",
+    "Ratings": 4.8,
+    "locality": "Ekta Nagar Kandivali West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Ashiyana Pg",
+    "Ratings": 4.5,
+    "locality": "Vashi",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Happy Home Residency",
+    "Ratings": 4.4,
+    "locality": "E Punjab Society Andheri East",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Urmila Pg Services",
+    "Ratings": 4.6,
+    "locality": "Sector-6 Kopar Khairane",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Srushti Paying Guest",
+    "Ratings": 4.3,
+    "locality": "Sector 05 Kopar Khairane",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Rahul Seaman Hostel",
+    "Ratings": 4.5,
+    "locality": "Sector 14 Cbd Belapur",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Happy House",
+    "Ratings": 4.4,
+    "locality": "St Antony Street Kalina",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Ramesh Paying Guest Accomodation",
+    "Ratings": 3.6,
+    "locality": "Link Road Mulund West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Mahalaxmi Hostel",
+    "Ratings": 4.1,
+    "locality": "Sector 18 A Nerul",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Bhoomi Solutions",
+    "Ratings": 4.5,
+    "locality": "Poisar Road Kandivali West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Stiffener Effort And Entertainment Pg",
+    "Ratings": 4.8,
+    "locality": "MG Road Goregaon West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Ansh Paying Guest",
+    "Ratings": 4.6,
+    "locality": "Ghansoli",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Welcome Home Pg",
+    "Ratings": 4.6,
+    "locality": "Andheri West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Romara Real Estate Consultancy",
+    "Ratings": 3.9,
+    "locality": "Thane West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Quality Paying Guest Services",
+    "Ratings": 4.5,
+    "locality": "Sector 12A Kopar Khairane",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Happy Home Residency",
+    "Ratings": 4.4,
+    "locality": "E Punjab Society Andheri East",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Gmd Business Link Pvt Ltd",
+    "Ratings": 3.9,
+    "locality": "Bandra Kurla Complex Bandra East",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "AARNIK S STAYS (MEN'S HOSTEL). 5 Star Hostel With World Class Amenities",
+    "Ratings": 3.1,
+    "locality": "Sector- 11 Cbd Belapur",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Urmila Pg Services",
+    "Ratings": 4.6,
+    "locality": "Sector-6 Kopar Khairane",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "New Bombay PG",
+    "Ratings": 4.6,
+    "locality": "Sector -4 Ghansoli",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Rahul Seaman Hostel",
+    "Ratings": 4.5,
+    "locality": "Sector 14 Cbd Belapur",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "P G Hostels",
+    "Ratings": 3.4,
+    "locality": "S A Brelvi Road Fort",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Happy House",
+    "Ratings": 4.4,
+    "locality": "St Antony Street Kalina",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Jagtap Hostel & Paying Guest",
+    "Ratings": 3.6,
+    "locality": "Fanas Pada Cbd Belapur",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Star Dormitory",
+    "Ratings": 4,
+    "locality": "New Link Road Andheri West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Stiffener Effort And Entertainment Pg",
+    "Ratings": 4.8,
+    "locality": "MG Road Goregaon West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "Bhoomi Solutions",
+    "Ratings": 4.5,
+    "locality": "Poisar Road Kandivali West",
+    "City": "Mumbai"
+  },
+  {
+    "PGName": "V R Guest House",
+    "Ratings": 3.9,
+    "locality": "Nagar Road Vadgaon Sheri",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Dhanashree Pg",
+    "Ratings": 4.7,
+    "locality": "Choudari Vasti Kharadi",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Gurukrupa Girls Pg",
+    "Ratings": 4.4,
+    "locality": "Kasarwadi",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Silver Homebase Executive Girls PG",
+    "Ratings": 4.8,
+    "locality": "Pimple Saudagar Pimple Saudagar",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Durvankur PG Accommodations",
+    "Ratings": 4.4,
+    "locality": "Dhanori",
+    "City": "Pune"
+  },
+  {
+    "PGName": "The PM's Girls Hostel",
+    "Ratings": 4.4,
+    "locality": "Karve Nagar",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Aryan Guest House",
+    "Ratings": 3.7,
+    "locality": "IT Park Phase 1 Hinjewadi",
+    "City": "Pune"
+  },
+  {
+    "PGName": "MD PG SERVICES",
+    "Ratings": 4.5,
+    "locality": "Keshav Nagar Road Mundhwa",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Niwara Facility Services LLP",
+    "Ratings": 3.5,
+    "locality": "Sudatta Apartment Karve Nagar",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Mangalmurti Girls PG",
+    "Ratings": 5,
+    "locality": "Patrakar Nagar Road",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Aruna Ladies and Gents Pg Services",
+    "Ratings": 3.6,
+    "locality": "Yasnodhan Lane Hadapsar",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Shanta Pg",
+    "Ratings": 3.5,
+    "locality": "Karve Nagar",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Laxmi Krupa Paying Guest",
+    "Ratings": 4.3,
+    "locality": "Wakad Bridge Hinjewadi",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Durvankur PG Accommodations",
+    "Ratings": 4.4,
+    "locality": "Dhanori",
+    "City": "Pune"
+  },
+  {
+    "PGName": "MD PG SERVICES",
+    "Ratings": 4.5,
+    "locality": "Keshav Nagar Road Mundhwa",
+    "City": "Pune"
+  },
+  {
+    "PGName": "The Nest Grandeur",
+    "Ratings": 4.4,
+    "locality": "Balewadi High Street Baner",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Ss Pg",
+    "Ratings": 4.1,
+    "locality": "Malwadi Road Hadapsar",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Aryan Guest House",
+    "Ratings": 3.7,
+    "locality": "IT Park Phase 1 Hinjewadi",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Shree Ganesh Paying Guest",
+    "Ratings": 3.9,
+    "locality": "Alandi Road Dighi",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Shiv Sai Amul Gents and Ladies Pg",
+    "Ratings": 4.5,
+    "locality": "Line No 3 Kharadi",
+    "City": "Pune"
+  },
+  {
+    "PGName": "Home Away From Home",
+    "Ratings": 3.9,
+    "locality": "Napania Road Nipania Indore",
+    "City": "Indore"
+  },
+  {
+    "PGName": "Siddhivinayak Hostel and Pg",
+    "Ratings": 4.7,
+    "locality": "Jain Mandir Lane Anurag Nagar",
+    "City": "Indore"
+  },
+  {
+    "PGName": "Wow Pg Girls Hostel",
+    "Ratings": 4.7,
+    "locality": "Mahalaxmi Nagar",
+    "City": "Indore"
+  },
+  {
+    "PGName": "Sr Greens Girls Pg",
+    "Ratings": 4.7,
+    "locality": "Vijay Nagar",
+    "City": "Indore"
+  },
+  {
+    "PGName": "Chandrakanta Girls PG & Hostel",
+    "Ratings": 5,
+    "locality": "Scheme No. 54 Vijay Nagar",
+    "City": "Indore"
+  },
+  {
+    "PGName": "A B Hostel",
+    "Ratings": 4.1,
+    "locality": "Greater Noida",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Living Siving",
+    "Ratings": 4.5,
+    "locality": "D-196 Noida Sector 55",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Amaira Pg",
+    "Ratings": 4.2,
+    "locality": "Sector 34",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Home Sweet Home Pg",
+    "Ratings": 4.3,
+    "locality": "Gurgaon Sector 17",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Book My Bed",
+    "Ratings": 3.6,
+    "locality": "E-80 South Extension 1",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Sanwaria Pg",
+    "Ratings": 4.1,
+    "locality": "Main Road F Pocket Sarita Vihar",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Angels Pg",
+    "Ratings": 4.7,
+    "locality": "Ramphal Chowk Dwarka Sector 7",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "ATITHI AASHRYA PG",
+    "Ratings": 3.7,
+    "locality": "Faridabad Sector28 Sector 19",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "COMFORT PG ACCOMMODATION",
+    "Ratings": 4.9,
+    "locality": "Kalyan Singh Chowk Faridabad NIT",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Phogat Pg",
+    "Ratings": 4.8,
+    "locality": "Govind Puri-Kalkaji",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Balaji PG",
+    "Ratings": 3.6,
+    "locality": "Sohna Road Gurgaon Sector 48",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Punjabi Pg",
+    "Ratings": 4,
+    "locality": "B 224 Lg Chowk",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Chaudhary Pg Accommodation",
+    "Ratings": 4.2,
+    "locality": "Ug 1 Shalimar Garden Extention 1",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Vidya Mansion",
+    "Ratings": 4.6,
+    "locality": "Faridabad Sector 3",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Krishna Paying Guest",
+    "Ratings": 4.2,
+    "locality": "E 85 Jhilmil Colony",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Veena Pg",
+    "Ratings": 3.9,
+    "locality": "New Rohtak Road Karol Bagh",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Guru Ji Paying Guest",
+    "Ratings": 4.2,
+    "locality": "Ramesh Nagar",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Shri Sai Pg",
+    "Ratings": 4.9,
+    "locality": "Nit:-5 Faridabad NIT",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "A B Hostel",
+    "Ratings": 4.1,
+    "locality": "Greater Noida",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Living Siving",
+    "Ratings": 4.5,
+    "locality": "D-196 Noida Sector 55",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Amaira Pg",
+    "Ratings": 4.2,
+    "locality": "Sector 34",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Home Sweet Home Pg",
+    "Ratings": 4.3,
+    "locality": "Gurgaon Sector 17",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Sanwaria Pg",
+    "Ratings": 4.1,
+    "locality": "Main Road F Pocket Sarita Vihar",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Book My Bed",
+    "Ratings": 3.6,
+    "locality": "E-80 South Extension 1",
+    "City": "Delhi"
+  },
+  {
+    "PGName": "Angels Pg",
+    "Ratings": 4.7,
+    "locality": "Ramphal Chowk Dwarka Sector 7",
+    "City": "Delhi"
+  }
+]
